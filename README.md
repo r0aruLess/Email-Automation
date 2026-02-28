@@ -1,4 +1,4 @@
- 📬 Email Automation
+ #📬 Email Automation
 
 A Python script that reads recruiter contacts from Google Sheets and automatically sends personalized GRC internship application emails via Gmail — with your resume attached.
 
